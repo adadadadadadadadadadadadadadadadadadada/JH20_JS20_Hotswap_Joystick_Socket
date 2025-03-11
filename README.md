@@ -8,7 +8,7 @@ The socket consists of a PCB, 3D printed clip, and a 3D printed spacer that goes
 ## PCBs
 the "JS20" PCB is for using in your own PCBs. It is not a footprint because it is made of several individual parts. When placing remember that clip will have to go around it so be mindfull of other parts within 5mm of it. you can modify the clip to avoid such parts if need be.
 the "JS20PINOUT" is a small pinout board with production files made using the Fabrication Toolkit plugin for KiCad
-"JS20_JST4PIN" is similar with but with a JST 4 Pin connector, for a project im working on. The button for pressing down on the joystick is unmapped.
+"JS20_JST4PIN" is similar with but with a JST 4 Pin connector, for a project im working on. The button for pressing down on the joystick is not connected.
 
 ## STLs
 "JS20 Over PCB Clip for Remix" is for use when you incorperate the joystick into a larger PCB. It has no way to mount it as it is, and will need to be edited in order to work with your pcb. Do Not change the hight as it is important for its function.
