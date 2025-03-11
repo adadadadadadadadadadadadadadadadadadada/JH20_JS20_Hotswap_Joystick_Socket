@@ -19,7 +19,7 @@ the "JS20PINOUT" is a small pinout board with production files made using the Fa
 ## Where to get the Joysticks
 The joysticks can be found on aliexpress. Search for "Hotswap Joystick" the Joysticks with the teal sticks are the JS20 TMR joysticks while the ones with sticks that match the color of the body are the JH20 Hall Effect. Sometimes the ones that are teal get labeled as JH20, as far as i can tell they are just wrong. The hall effect joysticks are cheaper, but require 5v to operate from my research. The TMR joysticks can run on 3v I think... I havent found a clear answer but its often said that TMR is lower power and doesnt require modding a controller when doing a replacement so I think so. also TMR is in theory more precise but its a joystick so unless you have a large range of motion like a flight stick that prbably doesnt matter. both are contactless, so neither should experience much drift.
 
-###Referenced Data Sheets
+### Referenced Data Sheets
  JS20 http://www.k-silver.com/en/index.php/product/detail/44.html
  JH20 (not referenced but relevent) http://www.k-silver.com/en/index.php/product/detail/50.html
  Pogo Pin https://www.lcsc.com/datasheet/lcsc_datasheet_2306191048_Xinyangze-YZR0028-15020-01_C7429439.pdf
